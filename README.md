@@ -1,2 +1,3 @@
-# Demae-Dominos
-Backend for the Demae Dominos service. Contains a reverse engineered version of the Dominos Pizza API as well as the Demae Channel API.
+# Starting code progress...
+
+I have just pulled the original Demae channel repository! I am rewriting it to support Little Caesars for the Demae Channel, again, those may contribute!
